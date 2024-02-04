@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/fccla/config/applicationhost.config
+/.vs/fccla/FileContentIndex
+*.sqlite
